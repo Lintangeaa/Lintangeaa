@@ -1,5 +1,5 @@
 <h1 align="center">Whats upp! I'm Lintang Dandung Prakoso</h1> 
-<h5 align="center">Junior Backend Developer Information System Student</h5>
+<h5 align="center">Junior Backend Developer , and Information System Student</h5>
 
 <h1>My Stat's</h1>
 
