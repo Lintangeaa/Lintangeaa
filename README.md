@@ -1,11 +1,6 @@
 <h1 align="center">Whats upp! I'm Lintang Dandung Prakoso</h1> 
 <h5 align="center">Junior Backend Developer , and Information System Student</h5>
 
-<h1>My Stat's</h1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lintangeaa)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lintangeaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lintangdandungprakoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lintangdandung" height="30" width="40" /></a>
