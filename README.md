@@ -1,5 +1,5 @@
 <h1 align="center">Whats upp! I'm Lintang Dandung Prakoso</h1> 
-<h5 align="center">Junior Fullstack Developer , and Information System Student</h5>
+<h5 align="center">Junior Fullstack Developer , and Bachelor Degree Of Information System/h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
